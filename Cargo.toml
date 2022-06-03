@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "products",
+    "kafka/rust",
+    "db/rust",
+    "models/rust",
+    "utils/rust"
+]

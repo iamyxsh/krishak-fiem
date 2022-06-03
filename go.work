@@ -1,0 +1,9 @@
+go 1.18
+
+use ./db/go
+use ./models/go
+use ./utils/go
+use ./kafka/go
+use ./constants/go
+use ./auth
+use ./profile
